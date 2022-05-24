@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = alexandre.galicier@gmail.com
+	name = Alexandre Galicier
